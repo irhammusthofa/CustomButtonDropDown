@@ -1,6 +1,7 @@
 # CustomButtonDropDown
 
-Untuk membuat DropDown di iOS terlihat seperti DropDown pada umumnya, maka anda harus membuat Custom Button untuk DropDown. 
+Untuk membuat DropDown di iOS terlihat seperti DropDown pada umumnya, maka anda harus merubah tampilan UIButton seperti DropDown dengan cara memodifikasinya. 
+
 Custom Button ini juga bisa digunakan untuk jenis lainnya yang sama seperti DatePicker.
 
 Untuk menggunakan CustomButton ini ialah sebagai berikut :
